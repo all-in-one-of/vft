@@ -1,5 +1,6 @@
 VFX Fractal Toolkit
 ==========================
+
 ![VFX Fractal Toolkit banner image](img/vft_cover.jpg)
 *Set of tools for generating fractal and generative art.*
 
